@@ -1,0 +1,9 @@
+Sample depth: 18
+Sample boundaries: (10, 16)
+Sample water level: 20
+Sample subsequence: [23, 14, 1, 8, 1, 8, 16]
+
+Random depth: 18
+Random boundaries: (10, 16)
+Random water level: 20
+Random subsequence: [25, 2, 17, 5, 13, 8, 20]
