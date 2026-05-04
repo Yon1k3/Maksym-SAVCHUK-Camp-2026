@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: shop
+    schema: public
+    tables:
+      - name: cleaned_customers
+      - name: cleaned_products
+      - name: cleaned_orders
+      - name: cleaned_order_items
