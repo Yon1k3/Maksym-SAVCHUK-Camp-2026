@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,order_date
+1,John Smith,Laptop,1,1200,2026-05-01
+2,Anna Brown,Mouse,2,25,2026-05-02
+3,Michael Green,Keyboard,1,75,2026-05-03
+4,Sophia White,Monitor,1,300,2026-05-04
+5,David Black,USB Cable,3,10,2026-05-05
