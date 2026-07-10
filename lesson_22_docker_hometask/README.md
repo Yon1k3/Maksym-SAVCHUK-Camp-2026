@@ -189,23 +189,3 @@ Example API response is saved in:
 ```text
 examples/example_detection_response.json
 ```
-
-If you run the container locally, add real screenshots of:
-
-- `docker build` success;
-- running container logs;
-- Swagger UI at `http://127.0.0.1:8000/docs`;
-- generated `outputs/detected_horse.jpg`.
-
-## Git notes
-
-Push source files, Docker files, model weights, sample data, and examples.
-
-Do not push:
-
-```text
-.venv/
-__pycache__/
-outputs/
-*.pyc
-```
